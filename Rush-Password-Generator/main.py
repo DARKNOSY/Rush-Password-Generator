@@ -85,3 +85,4 @@ if __name__ == "__main__":
         _success(f"\nGenerated password: {pwd}")
     except ValueError as e:
         _error(f"Error: {e}")
+    os.system("pause")
