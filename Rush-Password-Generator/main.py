@@ -82,7 +82,7 @@ if __name__ == "__main__":
     try:
         lngt = int(input("\033[96mEnter the length of the password you want generated (number):\033[0m "))
         pwd = generate_password(length=lngt, exclude_similar=True, no_repeats=True)
-        _success(f"\nGenerated password: {pwd}")
+        _success(f"\nGenerated password: {pwd}\n")
     except ValueError as e:
-        _error(f"Error: {e}")
+        _error(f"\nError: {e}\n")
     os.system("pause")
