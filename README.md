@@ -1,6 +1,6 @@
 <h2 align="center"><u>Rush Password Generator</u></h2>
 
-![Complex Password Generator](https://github.com/DARKNOSY/Rush-PowerShell-Obfuscator/blob/main/Example/powershell.png?raw=true)
+![Complex Password Generator](https://github.com/DARKNOSY/Rush-Password-Generator/blob/main/pwgen.png?raw=true)
 <h4 align="center"> Complex Password Generator </h4>
 
 <p align="center">
