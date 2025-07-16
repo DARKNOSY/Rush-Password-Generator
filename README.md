@@ -29,7 +29,7 @@ Rush Password Generator is a repo that make the process of generating a complex 
  - `py -m main`
 
 ### [+] Usage
- - `Enter the lenght you want your password to be (default is 16)`
+ - `Enter the length you want your password to be (default is 16)`
  - `Password is generated in the console`
 
 ### [+] Features
